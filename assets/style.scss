@@ -20,6 +20,66 @@ html {
   height: 100%;
 }
 
+.click-here {
+  // SVG icon from Font Awesome
+  width: 100px;
+  right: 1.5em;
+  position: absolute;
+  top: 3em;
+}
+
+// Poor man's dark mode
+.dark-mode {
+  filter: invert(100%) hue-rotate(180deg);
+
+  img {
+    filter: hue-rotate(180deg) invert(100%) brightness(.8) contrast(1.2);
+  }
+
+  #disqus_thread {
+    filter: hue-rotate(180deg) invert(100%);
+    // background: $black;
+    // color: #fff
+  }
+
+  .post-tags {
+    filter: hue-rotate(180deg) invert(100%);
+  }
+
+  #bar {
+    filter: hue-rotate(180deg) invert(100%);
+    background: #0bc1da;
+  }
+
+  .linkedin-container iframe {
+    filter: hue-rotate(175deg) invert(100%) brightness(85%) contrast(120%);
+  }
+
+  div.highlight {
+    filter: hue-rotate(180deg) invert(100%);
+  }
+
+  table, blockquote {
+    filter: hue-rotate(180deg) invert(100%);
+  }
+
+}
+
+.dark-mode-toggle {
+  position: absolute;
+  z-index: 100;
+  top: 1em;
+  right: 1em;
+  color: var(--foreground);
+  border: 2px solid currentColor;
+  padding: 4px;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+}
+
 body {
   background: #fff;
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -28,6 +88,7 @@ body {
   font-weight: 400;
   font-size: 18px;
   height: 100%;
+  transition: 0.5s background ease;
 }
 
 .container {
@@ -35,6 +96,25 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+}
+
+.linkedin-container {
+  position: relative;
+  padding-bottom: 85%;
+  padding-top: 35px;
+  height: 0;
+  overflow: visible;
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.linkedin-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -172,7 +252,7 @@ span[data-pullquote]:before {
   padding: 0 -5% 0 0;
   font-size: 1.3em;
   font-style: italic;
-  color: green;
+  color: #db344f;
   text-align: center;
 }
 
@@ -216,6 +296,7 @@ strong, b {
 
 img {
   max-width: 100%;
+  border-radius: 20px;
 }
 
 p > img {
@@ -700,10 +781,11 @@ Modules - reusable parts of our design
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;
-  background-color: #4CAF50;
+  background-color: #0bc1da;
   border-radius: 50px;
   color: #fff;
 }
+
 
 .pagination a, .pagination span {
   padding: 7px 18px;
@@ -772,7 +854,7 @@ Modules - reusable parts of our design
 
 .subscribeBtn {
   width: 30%;
-  background-color: #4CAF50;
+  background-color: #469dd7;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
