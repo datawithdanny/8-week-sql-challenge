@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}//images/8-week-sql-challenge.png">
+<img src="{{ site.baseurl }}/images/8-week-sql-challenge.png">
 
 The 8 Week SQL Challenge is proudly brought to you by the [Data With Danny](https://www.datawithdanny.com) virtual data apprenticeship program!
 
@@ -34,9 +34,7 @@ You can reach me directly in the official [Slack Channel](https://signup.8weeksq
 
 If you would like to contribute to this 8 Week SQL Challenge website or volunteer as a data community mentor - please get in touch with me anytime. I really appreciate any assistance and always enjoy meeting amazing people who have the same drive and motivation to help others!
 
-Please consider joining me at [Data With Danny](https://www.datawithdanny.com) or perhaps gifting a course to a friend or someone in need!
-
-You can also support me via <a href="https://www.paypal.me/datawithdanny">PayPal</a> - this really helps me continue working on my purpose so I super appreciate your support and care. Thank you!
+You can support me by purchasing [Serious SQL](https://bit.ly/3gWUT2G) or by donating to my <a href="https://www.paypal.me/datawithdanny">PayPal</a> - this really helps me continue working on my purpose so I super appreciate your support and care. Thank you!
 
 From your friendly data mentor,  
 Danny :)
