@@ -39,4 +39,4 @@ You can support me by purchasing [Serious SQL](https://bit.ly/3gWUT2G) or by don
 From your friendly data mentor,  
 Danny :)
 
-<img src="{{ site.baseurl }}//images/you-the-best.jpeg">
+<img src="{{ site.baseurl }}/images/you-the-best.jpeg">
