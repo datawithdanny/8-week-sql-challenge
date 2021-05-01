@@ -47,8 +47,6 @@ html {
     margin-bottom: 25px solid #87878780;
   }
   
-
-  
   img {
     filter: hue-rotate(180deg) invert(100%) brightness(95%) contrast(110%);
   }
@@ -74,7 +72,11 @@ html {
     filter: hue-rotate(180deg) invert(100%);
   }
 
-  table, blockquote {
+  table {
+    filter: hue-rotate(180deg) invert(100%);
+  }
+
+  blockquote {
     filter: hue-rotate(180deg) invert(100%);
   }
 
@@ -480,13 +482,13 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
+    border-left: 1rem solid #db344f;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #fff;
     font-size: 22px;
     font-style: italic;
-    background-color: #ede1ff;
+    font-weight: bold;
+    background-color: #f26a81;
   }
 
   .you-may-like{
@@ -570,6 +572,16 @@ body:after {
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
 }
+
+.page blockquote {
+    border-left: 1rem solid #db344f;
+    padding: 0.1em 1em;
+    color: #fff;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: #f26a81;
+  }
 
 .author_title{
   text-align: center;
