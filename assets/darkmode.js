@@ -12,6 +12,7 @@ const enableDarkMode = () => {
 const disableDarkMode = () => {
   // 1. Remove the class from the body
   document.documentElement.classList.toggle("dark-mode");
+  document.documentElement.classList.toggle("disable-dark-mode");
   // 2. Update darkMode in localStorage 
   localStorage.setItem('darkMode', null);
 }

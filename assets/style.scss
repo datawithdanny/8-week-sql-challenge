@@ -36,9 +36,19 @@ html {
 
   // Dirty hack to make the background the inverse color...
   body {
-    background: #eaeaea;
+    background: #dadada;
   }
 
+  .masthead {
+    border-bottom: 1px solid #87878780;
+  }
+
+  .wrapper-masthead {
+    margin-bottom: 25px solid #87878780;
+  }
+  
+
+  
   img {
     filter: hue-rotate(180deg) invert(100%) brightness(95%) contrast(110%);
   }
@@ -78,6 +88,11 @@ html {
 
 }
 
+// further hack to revert the background color
+.disable-dark-mode body {
+  background: #fff;
+}
+
 .dark-mode-toggle {
   position: absolute;
   z-index: 100;
@@ -101,7 +116,6 @@ body {
   font-weight: 400;
   font-size: 18px;
   height: 100%;
-  transition: 0.5s background ease;
 }
 
 .container {
