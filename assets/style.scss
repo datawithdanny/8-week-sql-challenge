@@ -15,6 +15,8 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+
+
 html {
   font-size: 100%;
   height: 100%;
@@ -32,14 +34,17 @@ html {
 .dark-mode {
   filter: invert(100%) hue-rotate(180deg);
 
+  // Dirty hack to make the background the inverse color...
+  body {
+    background: #eaeaea;
+  }
+
   img {
-    filter: hue-rotate(180deg) invert(100%) brightness(.8) contrast(1.2);
+    filter: hue-rotate(180deg) invert(100%) brightness(95%) contrast(110%);
   }
 
   #disqus_thread {
     filter: hue-rotate(180deg) invert(100%);
-    // background: $black;
-    // color: #fff
   }
 
   .post-tags {
@@ -52,7 +57,7 @@ html {
   }
 
   .linkedin-container iframe {
-    filter: hue-rotate(175deg) invert(100%) brightness(85%) contrast(120%);
+    filter: hue-rotate(175deg) invert(100%) brightness(95%) contrast(110%);
   }
 
   div.highlight {
@@ -60,6 +65,10 @@ html {
   }
 
   table, blockquote {
+    filter: hue-rotate(180deg) invert(100%);
+  }
+
+  i.svg-icon.twitter {
     filter: hue-rotate(180deg) invert(100%);
   }
 
