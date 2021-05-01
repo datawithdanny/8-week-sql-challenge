@@ -18,7 +18,7 @@ My vision is to create my own little corner of the world/internet where everyone
 
 Please feel free to share your success stories with me and the rest of the community - I am always here to celebrate your wins, and to help support you when you need it, you can count on me!
 
-Thank you so much for being a part of this all and I really wish you the best of luck on your data journey!
+Thank you so much for being a part of all this and I really wish you the best of luck on your data journey!
 
 You can reach me directly in the official [Slack Channel](https://signup.8weeksqlchallenge.com) or follow me on social media:
 
@@ -32,11 +32,11 @@ You can reach me directly in the official [Slack Channel](https://signup.8weeksq
 
 ## Contribute and Support
 
-If you'd like to help contribute to this 8 Week SQL Challenge website or volunteer as a community mentor - please get in touch with me anytime! I'd really appreciate any assistance and love meeting amazing people who have the same drive and motivation to help others!
+If you would like to contribute to this 8 Week SQL Challenge website or volunteer as a data community mentor - please get in touch with me anytime. I really appreciate any assistance and always enjoy meeting amazing people who have the same drive and motivation to help others!
 
-If you'd like to support all my initiatives - please consider joining me at [Data With Danny](https://www.datawithdanny.com) or perhaps gifting a course to a friend or someone in need!
+Please consider joining me at [Data With Danny](https://www.datawithdanny.com) or perhaps gifting a course to a friend or someone in need!
 
-You can also support me via <a href="paypal.me/datawithdanny">PayPal</a> - every little bit makes a difference as it helps me continue working on my purpose so I super appreciate your support and care. Thank you!
+You can also support me via <a href="https://www.paypal.me/datawithdanny">PayPal</a> - this really helps me continue working on my purpose so I super appreciate your support and care. Thank you!
 
 From your friendly data mentor,  
 Danny :)
