@@ -68,6 +68,11 @@ html {
     filter: hue-rotate(175deg) invert(100%) brightness(95%) contrast(110%);
   }
 
+  div.sqlfiddle-container iframe {
+    filter: hue-rotate(180deg) invert(100%) brightness(95%) contrast(110%);
+    background: #eee
+  }
+
   div.highlight {
     filter: hue-rotate(180deg) invert(100%);
   }
@@ -144,6 +149,43 @@ body {
   bottom: 0;
   width: 100%;
   height: 100%;
+}
+
+.sqlfiddle-container {
+  position: relative;
+  padding-bottom: 100%;
+  padding-top: 35px;
+  height: 0;
+  overflow: visible;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.dbdiagram-container {
+  position: relative;
+  // padding-bottom: 100%;
+  padding-top: 35px;
+  height: 350px;
+  overflow: visible;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -511,6 +553,16 @@ nav {
     font-size: 15px;
   }
 }
+
+a.read-more {
+  display: block;
+  text-align: center;
+}
+
+// div.entry {
+//   display: block;
+//   text-align: center;
+// }
 
 .wrapper-container {
   min-height: 100%;
