@@ -45,7 +45,7 @@ I will be releasing weekly case studies for the next 8 weeks starting from May 1
 There is no one single correct answer for this question but here are a few suggestions!
 
 * Review the super comprehensive list of SQL resources I've put together on the [Resources]({{ site.baseurl }}/resources) page, there blogs, courses, videos and documentation links included
-* Throw yourself into the deep end and attempt [Case Study 1 - Danny's Diner]({{ site.baseurl }}/posts/case-study-dannys-diner)
+* Throw yourself into the deep end and attempt [Case Study 1 - Danny's Diner]({{ site.baseurl }}/case-study-dannys-diner)
 * Join me for my [Serious SQL course](https://bit.ly/3gWUT2G) - I'll be on hand to actively mentor you and respond directly to any questions throughout the course
 
 > What else can I expect to find on this website?

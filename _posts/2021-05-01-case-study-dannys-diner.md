@@ -166,7 +166,7 @@ If you'd like to use this case study for one of your portfolio projects or in a 
 
 I really hope you enjoyed this fun little case study - it definitely was fun for me to create!
 
-If you'd like to see the solutions and detailed explanations for this case study and a whole lot more, please consider joining me for the Serious SQL course at [www.datawithdanny.com](https://bit.ly/3gWUT2G) - you'll get access to all course materials and I'm on hand to answer all of your additional SQL questions directly!
+If you'd like to see the solutions and detailed explanations for this case study and a whole lot more, please consider joining me for the [Serious SQL course](https://bit.ly/3gWUT2G) - you'll get access to all course materials and I'm on hand to answer all of your additional SQL questions directly!
 
 Serious SQL students get access to complete solutions for each case study, released exactly 1 week after each of these case studies are published here so everyone has a chance to try and solve the problems.
 
