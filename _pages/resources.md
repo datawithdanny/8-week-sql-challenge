@@ -13,14 +13,15 @@ My good friend and mentor Eric Weber has given me permission to embed some of hi
 My aim is to make it to the top of Eric's recommendations one day with my work here with the 8 Week SQL Challenge - so I will keep working hard to achieve my goal!!!
 
 <div class="linkedin-container">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6790622597819240448" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6790622597819240448" height="704" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
 Eric also shares a ton of amazing SQL knowledge himself - below is a perfect example of this top quality knowledge sharing in action!
 
 <div class="linkedin-container">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6790224191309316096" height="894" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6793873035242868736" height="742" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
+
 
 ## Other Free Resources
 
@@ -30,9 +31,9 @@ If you see anything which you think belongs in this section - please feel free t
 
 ### Blogs and Online Tutorials
 
-These are a mish-mash of random blogs, free courses and articles I've come across or people have shared with me in the past few months.
+Below are a mish-mash of random blogs, free courses and articles I've come across or people have shared with me in the past few months.
 
-I highly recommend Mode to anyone looking for free resources as it has a super clean UI and covers a very wide breadth of topics and questions.
+I usually recommend Mode to anyone looking for free resources as it has a super clean UI and covers a wide breadth of topics and questions.
 
 * [Mode SQL Tutorials](https://mode.com/sql-tutorial/)
 * [Metrics Maven articles at compose.com](https://www.compose.com/articles/search/?s=metric%20maven)
@@ -46,7 +47,9 @@ I highly recommend Mode to anyone looking for free resources as it has a super c
 
 If you're anything like me - I could sit in front of YouTube for a whole day if I'm left alone to my own devices!
 
-Checkout some useful and very engaging content from the following creators - I especially enjoyed Dave, Ken, Tina, Alex and Jay's videos as they are super practical and very down to earth - make sure to give them a subscribe and a follow on LinkedIn too!
+Checkout some useful and engaging content from the following creators - I especially enjoyed Dave, Ken, Tina, Alex and Jay's videos as they are super practical and very down to earth - make sure to give them a subscribe and a follow on LinkedIn too!
+
+Some of the videos below, especially the interview question related ones are going to be quite topical - but might be the sort of introduction that some people might be after.
 
 * [David Langer's YouTube Channel](https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ)
 * [Ken Jee's Simple SQL Fundamentals](https://www.youtube.com/watch?v=WKXtTo7lqmA)
@@ -62,7 +65,7 @@ Checkout some useful and very engaging content from the following creators - I e
 
 I am the first person to recommend reading the documentation for literally anything I'm working on - and SQL is no different!
 
-I found the best place to learn a lot of my own SQL knowledge, especially when I was learning on the job as a data analyst, was by reading the specific documentation for the specific dialect or implementation of SQL that I was working with.
+I found over time, the best place to learn a lot of my own SQL knowledge, especially when I was learning on the job as a data analyst, was by reading the specific documentation for the specific dialect or implementation of SQL that I was working with.
 
 There are many more implementations out there but these are the main few that might be worth learning without much practical work experience!
 
