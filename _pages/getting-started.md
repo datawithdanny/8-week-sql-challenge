@@ -66,7 +66,7 @@ I've really put my heart and soul into the Serious SQL course and I truly believ
 
 Here are a few reasons why I think Serious SQL is perfect for anyone starting their data and SQL learning journey - I've created this course to help beginners and experienced practitioners alike!
 
-### Course Curiculum
+### Course Datasets
 
 Learn SQL by doing through multiple realistic end to end case studies that closely represent the sort of work we perform in a data analytics role and includes datasets and case studies from the following domains:
 * Health analytics
@@ -74,7 +74,7 @@ Learn SQL by doing through multiple realistic end to end case studies that close
 * People analytics
 * Financial markets
 * Fast moving consumer goods
-* Digital markleting  
+* Digital marketing
 <br>
 
 ### Topics Covered
