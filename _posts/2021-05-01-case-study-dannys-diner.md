@@ -40,6 +40,8 @@ You can inspect the entity relationship diagram and example data below.
 
 The `sales` table captures all `customer_id` level purchases with an corresponding `order_date` and `product_id` information for when and what menu items were ordered.
 
+<div class="responsive-table" markdown="block">
+
 | customer_id | order_date | product_id |
 | ----------- | ---------- | ---------- |
 | A           | 2021-01-01 |          1 |
@@ -58,9 +60,13 @@ The `sales` table captures all `customer_id` level purchases with an correspondi
 | C           | 2021-01-01 |          3 |
 | C           | 2021-01-07 |          3 |
 
+</div>
+
 ### Table 2: menu
 
 The `menu` table maps the `product_id` to the actual `product_name` and `price` of each menu item.
+
+<div class="responsive-table" markdown="block">
 
 | product_id | product_name | price |
 | ---------- | ------------ | ----- |
@@ -68,14 +74,21 @@ The `menu` table maps the `product_id` to the actual `product_name` and `price` 
 |          2 | curry        |    15 |
 |          3 | ramen        |    12 |
 
+</div>
+
 ### Table 3: members
 
 The final `members` table captures the `join_date` when a `customer_id` joined the beta version of the Danny's Diner loyalty program.
+
+<div class="responsive-table" markdown="block">
 
 | customer_id | join_date  |
 | ----------- | ---------- |
 | A           | 2021-01-07 |
 | B           | 2021-01-09 |
+
+</div>
+
 
 ## Case Study Questions
 
@@ -100,6 +113,8 @@ The following questions are related creating basic data tables that Danny and hi
 
 Recreate the following table output using the available data:
 
+<div class="responsive-table" markdown="block">
+
 | customer_id | order_date | product_name | price | member |
 | ----------- | ---------- | ------------ | ----- | ------ |
 | A           | 2021-01-01 | curry        |    15 | N      |
@@ -118,9 +133,13 @@ Recreate the following table output using the available data:
 | C           | 2021-01-01 | ramen        |    12 | N      |
 | C           | 2021-01-07 | ramen        |    12 | N      |
 
+</div>
+
 ### Rank All The Things
 
 Danny also requires further information about the `ranking` of customer products, but he purposely does not need the ranking for non-member purchases so he expects null `ranking` values for the records when customers are not yet part of the loyalty program.
+
+<div class="responsive-table" markdown="block">
 
 | customer_id | order_date | product_name | price | member | ranking |
 | ----------- | ---------- | ------------ | ----- | ------ | ------- |
@@ -139,6 +158,8 @@ Danny also requires further information about the `ranking` of customer products
 | C           | 2021-01-01 | ramen        |    12 | N      |    null |
 | C           | 2021-01-01 | ramen        |    12 | N      |    null |
 | C           | 2021-01-07 | ramen        |    12 | N      |    null |
+
+</div>
 
 ## Accessing The Data
 
