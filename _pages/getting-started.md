@@ -6,7 +6,7 @@ permalink: /getting-started/
 
 <img src="{{ site.baseurl }}/images/8-week-sql-challenge.png">
 
-The 8 Week SQL Challenge is proudly brought to you by the [Data With Danny](https://bit.ly/334AOiP) virtual data apprenticeship program to celebrate the launch of the [Serious SQL](https://bit.ly/3gWUT2G) course!
+The 8 Week SQL Challenge is proudly brought to you by the [Data With Danny](https://bit.ly/datawithdanny-8wsc) virtual data apprenticeship program to celebrate the launch of the [Serious SQL](https://bit.ly/3gWUT2G) course!
 
 > What is the 8 Week SQL Challenge?
 
@@ -164,7 +164,7 @@ You might laugh at that last point - but trust me! This really works because thi
 
 ## Contribute and Support
 
-The 8 Week SQL Challenge is proudly brought to you by the [Data With Danny](https://bit.ly/334AOiP) virtual data apprenticeship program.
+The 8 Week SQL Challenge is proudly brought to you by the [Data With Danny](https://bit.ly/datawithdanny-8wsc) virtual data apprenticeship program.
 
 If you would like to contribute to the 8 Week SQL Challenge website or volunteer as a data community mentor - please get in touch with me anytime. I always enjoy meeting amazing people who have the same drive and motivation to help others!
 

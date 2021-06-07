@@ -78,7 +78,7 @@ There are many more implementations out there but these are the main few that mi
 
 ## Contribute and Support
 
-The 8 Week SQL Challenge is proudly brought to you by the [Data With Danny](https://bit.ly/334AOiP) virtual data apprenticeship program.
+The 8 Week SQL Challenge is proudly brought to you by the [Data With Danny](https://bit.ly/datawithdanny-8wsc) virtual data apprenticeship program.
 
 If you would like to contribute to the 8 Week SQL Challenge website or volunteer as a data community mentor - please get in touch with me anytime. I always enjoy meeting amazing people who have the same drive and motivation to help others!
 
