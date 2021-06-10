@@ -49,6 +49,7 @@ There is no one single correct answer for this question but here are a few sugge
   + [Case Study #1 - Danny's Diner]({{ site.baseurl }}/case-study-1)
   + [Case Study #2 - Pizza Runner]({{ site.baseurl }}/case-study-2)
   + [Case Study #3 - Foodie-Fi]({{ site.baseurl }}/case-study-3)
+  + [Case Study #4 - Data Bank]({{ site.baseurl }}/case-study-4)
 * Join me for my [Serious SQL course](https://bit.ly/3gWUT2G) - I'll be on hand to actively mentor you and respond directly to any questions throughout the course
 
 > What else can I expect to find on this website?
