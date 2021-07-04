@@ -107,7 +107,7 @@ There are many more implementations out there but these are the main few that mi
 
 ### Final Thoughts
 
-<center><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Q5Q7568W3');kofiwidget2.draw();</script></center>
+<center><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#0bc1da', 'Q5Q7568W3');kofiwidget2.draw();</script></center>
 
 If you found any of these 8 Week SQL Challenge case studies helpful or valuable - please consider supporting me on Ko-fi!
 
