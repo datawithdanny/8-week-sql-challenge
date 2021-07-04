@@ -44,7 +44,6 @@ I will be releasing weekly case studies for the next 8 weeks starting from May 1
 
 There is no one single correct answer for this question but here are a few suggestions!
 
-* Review the super comprehensive list of SQL resources I've put together on the [Resources]({{ site.baseurl }}/resources) page, there blogs, courses, videos and documentation links included
 * Throw yourself into the deep end and attempt the case studies:
   + [Case Study #1 - Danny's Diner]({{ site.baseurl }}/case-study-1)
   + [Case Study #2 - Pizza Runner]({{ site.baseurl }}/case-study-2)
@@ -67,6 +66,12 @@ I'll also be sending out regular emails too to all participants who register for
 Serious SQL is an online course that I've created - it is the very first part of the Data With Danny virtual apprenticeship program.
 
 I've really put my heart and soul into the Serious SQL course and I truly believe that it will make a huge difference on your data journey!
+
+[Serious SQL](https://bit.ly/3gWUT2G) is currently on sale for $29 and $19 for students from the standard price of $39 and $29, but only for a limited time so don't miss out!
+
+<div class="colorful-container">
+<center><div class="thinkific-product-card" data-btn-txt="Take $10 off this price!" data-btn-txt-color="#ffffff" data-btn-bg-color="#0bc1da" data-card-type="card" data-link-type="landing_page" data-product="956550" data-embed-version="0.0.2" data-card-txt-color="#7d7d7d" data-card-bg-color="#ffffff" data-store-url="https://www.datawithdanny.com/embeds/products/show"><div class="iframe-container"></div><script type="text/javascript">document.getElementById("thinkific-product-embed") || document.write('<script id="thinkific-product-embed" type="text/javascript" src="https://assets.thinkific.com/js/embeds/product-cards-client.min.js"><\/script>');</script><noscript><a href="https://www.datawithdanny.com/courses/serious-sql" target="_blank">Take $10 off this price!</a></noscript></div></center>
+</div>
 
 Here are a few reasons why I think Serious SQL is perfect for anyone starting their data and SQL learning journey - I've created this course to help beginners and experienced practitioners alike!
 
