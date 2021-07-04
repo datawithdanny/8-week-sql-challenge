@@ -6,19 +6,48 @@ permalink: /resources/
 
 This page will have a comprehensive list of SQL resources which you can use throughout the 8 Week SQL Challenge - the focus is on mainly free resources, blogs and courses identified by experienced SQL practitioners as the most useful!
 
+## All Case Studies By Date
+
+<div id="archives">
+  <section id="archive">
+     <h3>Most Recent Posts</h3>
+      {%for post in site.posts %}
+      {% unless post.next %}
+      <ul class="this">
+          {% else %}
+          {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
+          {% capture nmonth %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+          {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+          {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+          {% if year != nyear %}
+      </ul>
+      <h2 style="text-align:left;">{{ post.date | date: '%Y' }}</h2>
+      <ul class="past">
+          {% endif %}
+          {% if month != nmonth %}
+          <h3 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h3>
+          {% endif %}
+          {% endunless %}
+          <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
+          {% endfor %}
+      </ul>
+    <h3>Oldest Posts</h3>
+  </section>
+</div>
+
 ## Eric Weber's SQL Recommendations
 
 My good friend and mentor Eric Weber has given me permission to embed some of his super useful LinkedIn posts directly on this site so more people can benefit from his amazing work - you should definitely give him a follow and support his posts if you aren't already doing so!
 
 My aim is to make it to the top of Eric's recommendations one day with my work here with the 8 Week SQL Challenge - so I will keep working hard to achieve my goal!!!
 
-<div class="linkedin-container">
+<div class="colorful-container">
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6790622597819240448" height="704" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
 Eric also shares a ton of amazing SQL knowledge himself - below is a perfect example of this top quality knowledge sharing in action!
 
-<div class="linkedin-container">
+<div class="colorful-container">
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6793873035242868736" height="742" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
@@ -76,13 +105,15 @@ There are many more implementations out there but these are the main few that mi
 
 ---
 
-## Contribute and Support
+### Final Thoughts
 
-The 8 Week SQL Challenge is proudly brought to you by the [Data With Danny](https://bit.ly/datawithdanny-8wsc) virtual data apprenticeship program.
+<center><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#0bc1da', 'Q5Q7568W3');kofiwidget2.draw();</script></center>
+
+If you found any of these 8 Week SQL Challenge case studies helpful or valuable - please consider supporting me on Ko-fi!
+
+The 8 Week SQL Challenge is proudly brought to you by me - Danny Ma and the [Data With Danny](https://bit.ly/datawithdanny-8wsc) virtual data apprenticeship program.
 
 If you would like to contribute to the 8 Week SQL Challenge website or volunteer as a data community mentor - please get in touch with me anytime. I always enjoy meeting amazing people who have the same drive and motivation to help others!
-
-You can support me by joining my [Serious SQL course](https://bit.ly/3gWUT2G) or by donating to my<a href="https://www.paypal.me/datawithdanny">PayPal</a> - this really helps me continue working on my purpose so I super appreciate your support and care. Thank you!
 
 You can reach me directly in the official Slack Channel or find me on social media:
 
@@ -90,9 +121,9 @@ You can reach me directly in the official Slack Channel or find me on social med
 * [YouTube](https://youtube.com/dannyma)
 * [Twitter](https://twitter.com/datawithdanny)
 * [Instagram](https://www.instagram.com/datawithdanny/)
-* @DataWithDanny on [Clubhouse](https://www.joinclubhouse.com/)
 
-Thank you so much for being a part of the 8 Week SQL Challenge and I really wish you the best of luck for your learning experience!
-
-From your friendly data mentor,  
+From your friendly data mentor,
 Danny :)
+
+<center><div class='colorful-container'><iframe src='https://ko-fi.com/dannyma/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:60%;padding:4px;background:#f9f9f9;' height='712' title='dannyma'></iframe>
+</div></center>

@@ -44,12 +44,14 @@ I will be releasing weekly case studies for the next 8 weeks starting from May 1
 
 There is no one single correct answer for this question but here are a few suggestions!
 
-* Review the super comprehensive list of SQL resources I've put together on the [Resources]({{ site.baseurl }}/resources) page, there blogs, courses, videos and documentation links included
 * Throw yourself into the deep end and attempt the case studies:
   + [Case Study #1 - Danny's Diner]({{ site.baseurl }}/case-study-1)
   + [Case Study #2 - Pizza Runner]({{ site.baseurl }}/case-study-2)
   + [Case Study #3 - Foodie-Fi]({{ site.baseurl }}/case-study-3)
   + [Case Study #4 - Data Bank]({{ site.baseurl }}/case-study-4)
+  + [Case Study #5 - Data Mart]({{ site.baseurl }}/case-study-5)
+  + [Case Study #6 - Clique Bait]({{ site.baseurl }}/case-study-6)
+* Review the super comprehensive list of SQL resources I've put together on the [Resources]({{ site.baseurl }}/resources) page, there blogs, courses, videos and documentation links included
 * Join me for my [Serious SQL course](https://bit.ly/3gWUT2G) - I'll be on hand to actively mentor you and respond directly to any questions throughout the course
 
 > What else can I expect to find on this website?
@@ -67,6 +69,12 @@ I'll also be sending out regular emails too to all participants who register for
 Serious SQL is an online course that I've created - it is the very first part of the Data With Danny virtual apprenticeship program.
 
 I've really put my heart and soul into the Serious SQL course and I truly believe that it will make a huge difference on your data journey!
+
+[Serious SQL](https://bit.ly/3gWUT2G) is currently on sale for $29 and $19 for students from the standard price of $39 and $29, but only for a limited time so don't miss out!
+
+<div class="colorful-container">
+<center><div class="thinkific-product-card" data-btn-txt="Take $10 off this price!" data-btn-txt-color="#ffffff" data-btn-bg-color="#0bc1da" data-card-type="card" data-link-type="landing_page" data-product="956550" data-embed-version="0.0.2" data-card-txt-color="#7d7d7d" data-card-bg-color="#ffffff" data-store-url="https://www.datawithdanny.com/embeds/products/show"><div class="iframe-container"></div><script type="text/javascript">document.getElementById("thinkific-product-embed") || document.write('<script id="thinkific-product-embed" type="text/javascript" src="https://assets.thinkific.com/js/embeds/product-cards-client.min.js"><\/script>');</script><noscript><a href="https://www.datawithdanny.com/courses/serious-sql" target="_blank">Take $10 off this price!</a></noscript></div></center>
+</div>
 
 Here are a few reasons why I think Serious SQL is perfect for anyone starting their data and SQL learning journey - I've created this course to help beginners and experienced practitioners alike!
 
@@ -127,13 +135,17 @@ Installation and setup of all required data and systems is super fast and will r
 
 We also have dedicated Q&A threads for each separate course tutorial as well as a dedicated SQL Support Forum where all students enrolled in the course can share their SQL problems for direct assistance - even if its for data or problems that are not included in the course.
 
-[Serious SQL](https://bit.ly/3gWUT2G) is currently on sale for $29 and $19 for students from the standard price of $49 and $29, but only for a limited time so don't miss out!
+[Serious SQL](https://bit.ly/3gWUT2G) is currently on sale for $29 and $19 for students from the standard price of $39 and $29, but only for a limited time so don't miss out!
+
+<div class="colorful-container">
+<center><div class="thinkific-product-card" data-btn-txt="Get Serious SQL Now!" data-btn-txt-color="#ffffff" data-btn-bg-color="#0bc1da" data-card-type="button" data-link-type="landing_page" data-product="956550" data-embed-version="0.0.2" data-store-url="https://www.datawithdanny.com/embeds/products/show"><div class="iframe-container"></div><script type="text/javascript">document.getElementById("thinkific-product-embed") || document.write('<script id="thinkific-product-embed" type="text/javascript" src="https://assets.thinkific.com/js/embeds/product-cards-client.min.js"><\/script>');</script><noscript><a href="https://www.datawithdanny.com/courses/serious-sql" target="_blank">Get Serious SQL Now!</a></noscript></div></center>
+</div>
 
 > Will you be providing case study coding solutions?
 
 If you'd like to see the complete code solutions and detailed explanations for all case studies and a whole lot more, please consider joining me for the Serious SQL course - you'll get access to all course materials, case study solutions and I'm on hand to answer all of your additional SQL questions directly!
 
-Serious SQL students get access to complete solutions for each case study, released around 1 week after each of these case studies are published here so everyone has a chance to try and solve the problems before solutions are provided.
+Serious SQL students get access to complete solutions for each case study, they will be made available directly inside the Serious SQL course player after the case studies are published here so everyone has a chance to try and solve the problems before solutions are provided.
 
 Complex sections identified by students will also have specific video explanations to cover key problem areas - join me to get customised support and in-depth explanations for the parts which you find most challenging.
 
@@ -163,13 +175,15 @@ You might laugh at that last point - but trust me! This really works because thi
 
 ---
 
-## Contribute and Support
+### Final Thoughts
 
-The 8 Week SQL Challenge is proudly brought to you by the [Data With Danny](https://bit.ly/datawithdanny-8wsc) virtual data apprenticeship program.
+<center><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#0bc1da', 'Q5Q7568W3');kofiwidget2.draw();</script></center>
+
+If you found any of these 8 Week SQL Challenge case studies helpful or valuable - please consider supporting me on Ko-fi!
+
+The 8 Week SQL Challenge is proudly brought to you by me - Danny Ma and the [Data With Danny](https://bit.ly/datawithdanny-8wsc) virtual data apprenticeship program.
 
 If you would like to contribute to the 8 Week SQL Challenge website or volunteer as a data community mentor - please get in touch with me anytime. I always enjoy meeting amazing people who have the same drive and motivation to help others!
-
-You can support me by purchasing [Serious SQL](https://bit.ly/3gWUT2G) or by donating to my <a href="https://www.paypal.me/datawithdanny">PayPal</a> - this really helps me continue working on my purpose so I super appreciate your support and care. Thank you!
 
 You can reach me directly in the official Slack Channel or find me on social media:
 
@@ -177,9 +191,11 @@ You can reach me directly in the official Slack Channel or find me on social med
 * [YouTube](https://youtube.com/dannyma)
 * [Twitter](https://twitter.com/datawithdanny)
 * [Instagram](https://www.instagram.com/datawithdanny/)
-* @DataWithDanny on [Clubhouse](https://www.joinclubhouse.com/)
 
 Thank you so much for being a part of the 8 Week SQL Challenge and I really wish you the best of luck for your learning experience!
 
 From your friendly data mentor,  
 Danny :)
+
+<center><div class='colorful-container'><iframe src='https://ko-fi.com/dannyma/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:60%;padding:4px;background:#f9f9f9;' height='712' title='dannyma'></iframe>
+</div></center>

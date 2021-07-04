@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Search
-permalink: /search/
+title: Case Studies
+permalink: /case-studies/
 ---
 
-<p style="text-align: center;">You can also <a href="{{ site.baseurl }}/categories">click here</a> to view all posts by category.</p>
-
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search through all posts">
+    <input type="text" id="search-input" placeholder="Search through all case studies">
     <ul id="results-container"></ul>
 </div>
 
@@ -22,7 +20,7 @@ permalink: /search/
     });
 </script>
 
-## All Posts By Date
+## All Case Studies By Date
 
 <div id="archives">
   <section id="archive">
