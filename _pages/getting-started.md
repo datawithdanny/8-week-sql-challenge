@@ -197,5 +197,5 @@ Thank you so much for being a part of the 8 Week SQL Challenge and I really wish
 From your friendly data mentor,  
 Danny :)
 
-<center><div class='colorful-container'><iframe src='https://ko-fi.com/dannyma/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:60%;padding:4px;background:#f9f9f9;' height='712' title='dannyma'></iframe>
+<center><div class='colorful-container'><iframe src='https://ko-fi.com/dannyma/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='dannyma'></iframe>
 </div></center>
