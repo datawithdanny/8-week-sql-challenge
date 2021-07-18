@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 permalink: /resources/
+image: "{{ site.baseurl }}/images/8-week-sql-challenge.png"
 ---
 
 This page will have a comprehensive list of SQL resources which you can use throughout the 8 Week SQL Challenge - the focus is on mainly free resources, blogs and courses identified by experienced SQL practitioners as the most useful!
