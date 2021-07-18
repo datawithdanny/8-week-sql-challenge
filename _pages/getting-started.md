@@ -51,6 +51,9 @@ There is no one single correct answer for this question but here are a few sugge
   + [Case Study #4 - Data Bank]({{ site.baseurl }}/case-study-4)
   + [Case Study #5 - Data Mart]({{ site.baseurl }}/case-study-5)
   + [Case Study #6 - Clique Bait]({{ site.baseurl }}/case-study-6)
+  + [Case Study #7 - Balanced Tree Clothing Co.]({{ site.baseurl }}/case-study-7)
+  + [Case Study #8 - Fresh Segments]({{ site.baseurl }}/case-study-8)
+
 * Review the super comprehensive list of SQL resources I've put together on the [Resources]({{ site.baseurl }}/resources) page, there blogs, courses, videos and documentation links included
 * Join me for my [Serious SQL course](https://bit.ly/3gWUT2G) - I'll be on hand to actively mentor you and respond directly to any questions throughout the course
 
