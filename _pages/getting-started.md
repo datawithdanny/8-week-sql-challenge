@@ -2,6 +2,7 @@
 layout: page
 title: Getting Started
 permalink: /getting-started/
+image: "{{ site.baseurl }}/images/8-week-sql-challenge.png"
 ---
 
 <img src="{{ site.baseurl }}/images/8-week-sql-challenge.png">

@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+image: "{{ site.baseurl }}/images/8-week-sql-challenge.png"
 ---
 
 <img src="{{ site.baseurl }}/images/8-week-sql-challenge.png">
