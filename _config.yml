@@ -12,7 +12,9 @@ author: Danny Ma
 description: Start your SQL learning journey today!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
+# Image is used as the default metadata OG image
 avatar: /images/data-with-danny-logo.png
+image: /images/8-week-sql-challenge.png
 
 #
 # Flags below are optional
