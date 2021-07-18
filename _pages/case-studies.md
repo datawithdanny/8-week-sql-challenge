@@ -2,6 +2,7 @@
 layout: page
 title: Case Studies
 permalink: /case-studies/
+image: "{{ site.baseurl }}/images/8-week-sql-challenge.png"
 ---
 
 <div id="search-container">
