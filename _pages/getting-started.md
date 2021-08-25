@@ -74,10 +74,10 @@ Serious SQL is an online course that I've created - it is the very first part of
 
 I've really put my heart and soul into the Serious SQL course and I truly believe that it will make a huge difference on your data journey!
 
-[Serious SQL](https://bit.ly/3gWUT2G) is currently on sale for $29 and $19 for students from the standard price of $39 and $29, but only for a limited time so don't miss out!
+[Serious SQL](https://bit.ly/3gWUT2G) is currently on sale for $29 and $19 for students from the standard price of $49 and $29, but only for a limited time so don't miss out!
 
 <div class="colorful-container">
-<center><div class="thinkific-product-card" data-btn-txt="Take $10 off this price!" data-btn-txt-color="#ffffff" data-btn-bg-color="#0bc1da" data-card-type="card" data-link-type="landing_page" data-product="956550" data-embed-version="0.0.2" data-card-txt-color="#7d7d7d" data-card-bg-color="#ffffff" data-store-url="https://www.datawithdanny.com/embeds/products/show"><div class="iframe-container"></div><script type="text/javascript">document.getElementById("thinkific-product-embed") || document.write('<script id="thinkific-product-embed" type="text/javascript" src="https://assets.thinkific.com/js/embeds/product-cards-client.min.js"><\/script>');</script><noscript><a href="https://www.datawithdanny.com/courses/serious-sql" target="_blank">Take $10 off this price!</a></noscript></div></center>
+<center><div class="thinkific-product-card" data-btn-txt="Take $20 off this price!" data-btn-txt-color="#ffffff" data-btn-bg-color="#0bc1da" data-card-type="card" data-link-type="landing_page" data-product="956550" data-embed-version="0.0.2" data-card-txt-color="#7d7d7d" data-card-bg-color="#ffffff" data-store-url="https://www.datawithdanny.com/embeds/products/show"><div class="iframe-container"></div><script type="text/javascript">document.getElementById("thinkific-product-embed") || document.write('<script id="thinkific-product-embed" type="text/javascript" src="https://assets.thinkific.com/js/embeds/product-cards-client.min.js"><\/script>');</script><noscript><a href="https://www.datawithdanny.com/courses/serious-sql" target="_blank">Take $20 off this price!</a></noscript></div></center>
 </div>
 
 Here are a few reasons why I think Serious SQL is perfect for anyone starting their data and SQL learning journey - I've created this course to help beginners and experienced practitioners alike!
@@ -139,7 +139,7 @@ Installation and setup of all required data and systems is super fast and will r
 
 We also have dedicated Q&A threads for each separate course tutorial as well as a dedicated SQL Support Forum where all students enrolled in the course can share their SQL problems for direct assistance - even if its for data or problems that are not included in the course.
 
-[Serious SQL](https://bit.ly/3gWUT2G) is currently on sale for $29 and $19 for students from the standard price of $39 and $29, but only for a limited time so don't miss out!
+[Serious SQL](https://bit.ly/3gWUT2G) is currently on sale for $29 and $19 for students from the standard price of $49 and $29, but only for a limited time so don't miss out!
 
 <div class="colorful-container">
 <center><div class="thinkific-product-card" data-btn-txt="Get Serious SQL Now!" data-btn-txt-color="#ffffff" data-btn-bg-color="#0bc1da" data-card-type="button" data-link-type="landing_page" data-product="956550" data-embed-version="0.0.2" data-store-url="https://www.datawithdanny.com/embeds/products/show"><div class="iframe-container"></div><script type="text/javascript">document.getElementById("thinkific-product-embed") || document.write('<script id="thinkific-product-embed" type="text/javascript" src="https://assets.thinkific.com/js/embeds/product-cards-client.min.js"><\/script>');</script><noscript><a href="https://www.datawithdanny.com/courses/serious-sql" target="_blank">Get Serious SQL Now!</a></noscript></div></center>
