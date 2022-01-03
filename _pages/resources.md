@@ -108,15 +108,13 @@ There are many more implementations out there but these are the main few that mi
 
 ### Final Thoughts
 
-<center><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#0bc1da', 'Q5Q7568W3');kofiwidget2.draw();</script></center>
-
-If you found any of these 8 Week SQL Challenge case studies helpful or valuable - please consider supporting me on Ko-fi!
-
 The 8 Week SQL Challenge is proudly brought to you by me - Danny Ma and the [Data With Danny](https://bit.ly/datawithdanny-8wsc) virtual data apprenticeship program.
 
-If you would like to contribute to the 8 Week SQL Challenge website or volunteer as a data community mentor - please get in touch with me anytime. I always enjoy meeting amazing people who have the same drive and motivation to help others!
+We have a large student community active on the official DWD Discord server with regular live events, trainings and workshops available to all Data With Danny students, plus early discounted access to all future paid courses.
 
-You can reach me directly in the official Slack Channel or find me on social media:
+There are also opportunities for 1:1 mentoring, resume reviews, interview training and more from myself or others in the DWD Mentor Team.
+
+You can find me on social media below:
 
 * [LinkedIn](https://linkedin.com/in/datawithdanny)
 * [YouTube](https://youtube.com/dannyma)
@@ -125,6 +123,3 @@ You can reach me directly in the official Slack Channel or find me on social med
 
 From your friendly data mentor,
 Danny :)
-
-<center><div class='colorful-container'><iframe src='https://ko-fi.com/dannyma/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='dannyma'></iframe>
-</div></center>
